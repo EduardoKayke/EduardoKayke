@@ -1,4 +1,5 @@
 ### Olá. 👋 Eu sou o Eduardo.
+Ainda estou me desenvolvendo, por isso minha página está em construção. ⚠️
 
 <!--
 **EduardoKayke/EduardoKayke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
