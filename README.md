@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá. 👋 Eu sou o Eduardo.
 
 <!--
 **EduardoKayke/EduardoKayke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
