@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">Ainda estou me desenvolvendo, por isso minha página está em construção. ⚠️</h3>
 
-<h3 align="center">Front-end Developer Jr</h3>
+<h3 align="center">Front-end Developer</h3>
 
 
 
