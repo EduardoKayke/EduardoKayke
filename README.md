@@ -227,10 +227,7 @@ Unopar Tecnólogo - Web Developer Front-end
 - [Aprenda Ganhar Dinheiro no Mercado de Ações - Intermediário.](https://www.udemy.com/certificate/UC-6eff9441-e1c0-4058-9eba-1e53890c0bb4/ "Certificado")
 - [Análise Técnica - Opere como um profissional do mercado.](https://www.udemy.com/certificate/UC-4888f344-a84c-4c76-8d3b-56911bd3946d/ "Certificado")
 
-> - Autores: 
->   - [Eduardo Kayke](https://github.com/EduardoKayke "Perfil do Eduardo")
-
-- [Voltar ao perfil do Github.](https://github.com/EduardoKayke "Perfil do Eduardo") 
-- [Meu email.](eduardokaykedasilva@gmail.com "Mande uma mensagem.")
+> - Contato: 
+>   - [Meu email.](eduardokaykedasilva@gmail.com "Mande uma mensagem.")
 
 _Um dia seremos a tecnologia. Biohacking a própria evolução de nós mesmos._
