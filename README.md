@@ -172,9 +172,6 @@ Here are some ideas to get you started:
 
 </div>
 
-## Olá, eu sou o Eduardo. Seja bem vindo ao meu canto de estudos.
-##### Que este conhecimento possa ajudá-lo no futuro. Pois no presente estou correndo atrás do meu.
-
 ## Perfil
 
 Sou o dono da Loja Cavallari (e-commerce) e estudante de desenvolvimento de software, Front-end.
