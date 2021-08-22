@@ -2,150 +2,25 @@
 
 <h3 align="center">Bem vindo!</h3>
 
-
-
- <div align="center">
-
-  <span>
-
-   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-
-   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-
-   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-
-   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-
-   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-
-  </span>
-
- </div>
-
-</br>
-
-
+<h3 align="center">Linguagens e Ferramentas:</h3>
+<p align="center"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
 <div align="center">
-
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoKayke&layout=compact&theme=tokyonight)](https://github.com/EduardoKayke/github-readme-stats)
 
-  
-
-
-
-</div>
-
-
-
-
-
-
-
 <div align="center">
 
   
 
-- 📫 How to reach me **eduardokaykedasilva@gmail.com**
-
-  
-
-</div>
+📫 Email **eduardokaykedasilva@gmail.com**
 
 
-
-
-
- <h3 align="center">Connect with me:</h3>
-
-  
-
- <p align="left">
-
-  <li align="center">
-
-   <a class="url" href="https://www.linkedin.com/in/eduardokaykedasilva/" img> 
-
-    Linkedin
-
-   </a>
-
-  </li>
-
-  <li align="center">
-
-   <a class="url" href="https://api.whatsapp.com/send?phone=5541998779143/" img> 
-
-    Whatsapp
-
-   </a>
-
-  </li>
-
-  
-
-
-
-
-
-<h3 align="center"> 🚀 Frameworks </h3>
-
-<div align="center">
-
- <span>
-
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
-
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-
-  <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white"/>
-
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-
- </span>
-
-</div>
-
-
-
-</br>
-
-
-
-<div align="center">
-
- <span>  
-
-  <img src="https://img.shields.io/badge/NuGet-004880?style=for-the-badge&logo=nuget&logoColor=white"/>
-
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>  
-
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
-
-  <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>  
-
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
-
- </span>
-
-</div>
-
-
-
-</br>
-
-
-
-</br>
-
-
-
-
-
+<h3 align="center">Redes Sociais.</h3>
+<p align="center">
+<a href="https://linkedin.com/in/eduardokaykedasilva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eduardokaykedasilva" height="30" width="40" /></a>
+</p>
+ 
 <div align="center">
 
   
@@ -164,60 +39,60 @@ Sou o dono da Loja Cavallari (e-commerce) e estudante de desenvolvimento de soft
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eduardokayke" alt="eduardokayke" /></a> </p>
 
-## Universidade
+### Universidade
 Unopar Tecnólogo - Web Developer Front-end
-##### Disciplinas da graduação em Dev Web:
-- Sociedade Brasileira e Cidadania;
-- Projeto de Software;
-- Análise e Modelagem de Sistemas;
-- Arquiteturas e Organização de Computadores;
-- Desenvolvimento Orientado ao Objeto;
-- Programação e Desenvolvimento de Banco de Dados;
-- Redes de Computadores e Servidores Web;
-- Análise Orientada a Objetos;
-- Desenvolvimento de Sistemas E-commerce;
-- Desenvolvimento em JavaScript;
-- Desenvolvimento Responsivo;
-- Segurança para Serviços Web;
-- Algoritmos e Programação Estruturada;
-- Lógica Computacional;
-- Modelagem Banco de Dados;
-- Tecnologias Web Service.
-- Linguagem de Programação;
+#### Disciplinas da graduação em Dev Web:
+Sociedade Brasileira e Cidadania;
+Projeto de Software;
+Análise e Modelagem de Sistemas;
+Arquiteturas e Organização de Computadores;
+Desenvolvimento Orientado ao Objeto;
+Programação e Desenvolvimento de Banco de Dados;
+Redes de Computadores e Servidores Web;
+Análise Orientada a Objetos;
+Desenvolvimento de Sistemas E-commerce;
+Desenvolvimento em JavaScript;
+Desenvolvimento Responsivo;
+Segurança para Serviços Web;
+Algoritmos e Programação Estruturada;
+Lógica Computacional;
+Modelagem Banco de Dados;
+Tecnologias Web Service.
+Linguagem de Programação;
 
-##### Atuação nas áreas de:
+#### Atuação nas áreas de:
 
-- Aplicativos e sites com front-end e back-end;
-- Desenvolvimento de softwares;
-- Sistema de hospedagem;
-- Rede;
-- Banco de dados;
-- Servidor;
-- Segurança de dados;
-- UX;
-- Segurança cibernética.
+Aplicativos e sites com front-end e back-end;
+Desenvolvimento de softwares;
+Sistema de hospedagem;
+Rede;
+Banco de dados;
+Servidor;
+Segurança de dados;
+UX;
+Segurança cibernética.
 
 ## Cursos Udemy.
 
-- [Programação para Leigos e informática do básico ao avançado.](https://www.udemy.com/certificate/UC-3148215f-6e7e-48de-aa6b-2aa0c1e8732a/ "Certificado")
+[Programação para Leigos e informática do básico ao avançado.](https://www.udemy.com/certificate/UC-3148215f-6e7e-48de-aa6b-2aa0c1e8732a/ "Certificado")
 
 ## Cursos Digital Innovation One.
 
-- [Bem-vindo à DIO.](https://certificates.digitalinnovation.one/BB93D4E7 "Certificado")
-- [IDE Instalação e Configuração (Visual Studio Code).](https://certificates.digitalinnovation.one/1F1552CB "Certificado")
-- [Introdução ao Git e ao GitHub.](https://certificates.digitalinnovation.one/4576328D "Certificado")
-- [Lógica de Programação Essencial.](https://certificates.digitalinnovation.one/450FDA80 "Certificado")
+[Bem-vindo à DIO.](https://certificates.digitalinnovation.one/BB93D4E7 "Certificado")
+[IDE Instalação e Configuração (Visual Studio Code).](https://certificates.digitalinnovation.one/1F1552CB "Certificado")
+[Introdução ao Git e ao GitHub.](https://certificates.digitalinnovation.one/4576328D "Certificado")
+[Lógica de Programação Essencial.](https://certificates.digitalinnovation.one/450FDA80 "Certificado")
 
 ## Mercado de ações.
 
-- [Guia Oficial Mercado de Ações para Iniciantes.](https://www.udemy.com/certificate/UC-1S2TY0XX/ "Certificado")
-- [Análise Técnica: Curso para Day Trade e Swing Trade.](https://www.udemy.com/certificate/UC-8V9FBRKZ/ "Certificado")
-- [Master Class Bolsa de Valores sem Segredos.](https://www.udemy.com/certificate/UC-3edd742a-9200-487d-8af7-5dd23d207848/ "Certificado")
-- [Aprenda Ganhar Dinheiro no Mercado de Ações - Intermediário.](https://www.udemy.com/certificate/UC-6eff9441-e1c0-4058-9eba-1e53890c0bb4/ "Certificado")
-- [Análise Técnica - Opere como um profissional do mercado.](https://www.udemy.com/certificate/UC-4888f344-a84c-4c76-8d3b-56911bd3946d/ "Certificado")
+[Guia Oficial Mercado de Ações para Iniciantes.](https://www.udemy.com/certificate/UC-1S2TY0XX/ "Certificado")
+[Análise Técnica: Curso para Day Trade e Swing Trade.](https://www.udemy.com/certificate/UC-8V9FBRKZ/ "Certificado")
+[Master Class Bolsa de Valores sem Segredos.](https://www.udemy.com/certificate/UC-3edd742a-9200-487d-8af7-5dd23d207848/ "Certificado")
+[Aprenda Ganhar Dinheiro no Mercado de Ações - Intermediário.](https://www.udemy.com/certificate/UC-6eff9441-e1c0-4058-9eba-1e53890c0bb4/ "Certificado")
+[Análise Técnica - Opere como um profissional do mercado.](https://www.udemy.com/certificate/UC-4888f344-a84c-4c76-8d3b-56911bd3946d/ "Certificado")
 
 ## Me apoie.
 
 _Um dia seremos a tecnologia. Biohacking a própria evolução de nós mesmos._
 
-<p><a href="https://www.buymeacoffee.com/EduardoKayke"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="EduardoKayke" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/EduardoKayke"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="EduardoKayke" /></a></p><br><br>
