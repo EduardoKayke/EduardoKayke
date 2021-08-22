@@ -211,24 +211,24 @@ Unopar Tecnólogo - Web Developer Front-end
 
 ## Cursos Udemy.
 
-- [Programação para Leigos e informática do básico ao avançado.](https://www.udemy.com/certificate/UC-3148215f-6e7e-48de-aa6b-2aa0c1e8732a/ "Certificado")
+- [Programação para Leigos e informática do básico ao avançado.](https://www.udemy.com/certificate/UC-3148215f-6e7e-48de-aa6b-2aa0c1e8732a/ "Certificado"){:target="_blank"}
 
 ## Cursos Digital Innovation One.
 
-- [Bem-vindo à DIO.](https://certificates.digitalinnovation.one/BB93D4E7 target="_blank" "Certificado")
-- [IDE Instalação e Configuração (Visual Studio Code).](https://certificates.digitalinnovation.one/1F1552CB "Certificado")
-- [Introdução ao Git e ao GitHub.](https://certificates.digitalinnovation.one/4576328D "Certificado")
-- [Lógica de Programação Essencial.](https://certificates.digitalinnovation.one/450FDA80 "Certificado")
+- [Bem-vindo à DIO.](https://certificates.digitalinnovation.one/BB93D4E7 "Certificado"){:target="_blank"}
+- [IDE Instalação e Configuração (Visual Studio Code).](https://certificates.digitalinnovation.one/1F1552CB "Certificado"){:target="_blank"}
+- [Introdução ao Git e ao GitHub.](https://certificates.digitalinnovation.one/4576328D "Certificado"){:target="_blank"}
+- [Lógica de Programação Essencial.](https://certificates.digitalinnovation.one/450FDA80 "Certificado"){:target="_blank"}
 
 ## Mercado de ações.
 
-- [Guia Oficial Mercado de Ações para Iniciantes.](https://www.udemy.com/certificate/UC-1S2TY0XX/ "Certificado")
-- [Análise Técnica: Curso para Day Trade e Swing Trade.](https://www.udemy.com/certificate/UC-8V9FBRKZ/ "Certificado")
-- [Master Class Bolsa de Valores sem Segredos.](https://www.udemy.com/certificate/UC-3edd742a-9200-487d-8af7-5dd23d207848/ "Certificado")
-- [Aprenda Ganhar Dinheiro no Mercado de Ações - Intermediário.](https://www.udemy.com/certificate/UC-6eff9441-e1c0-4058-9eba-1e53890c0bb4/ "Certificado")
-- [Análise Técnica - Opere como um profissional do mercado.](https://www.udemy.com/certificate/UC-4888f344-a84c-4c76-8d3b-56911bd3946d/ "Certificado")
+- [Guia Oficial Mercado de Ações para Iniciantes.](https://www.udemy.com/certificate/UC-1S2TY0XX/ "Certificado"){:target="_blank"}
+- [Análise Técnica: Curso para Day Trade e Swing Trade.](https://www.udemy.com/certificate/UC-8V9FBRKZ/ "Certificado"){:target="_blank"}
+- [Master Class Bolsa de Valores sem Segredos.](https://www.udemy.com/certificate/UC-3edd742a-9200-487d-8af7-5dd23d207848/ "Certificado"){:target="_blank"}
+- [Aprenda Ganhar Dinheiro no Mercado de Ações - Intermediário.](https://www.udemy.com/certificate/UC-6eff9441-e1c0-4058-9eba-1e53890c0bb4/ "Certificado"){:target="_blank"}
+- [Análise Técnica - Opere como um profissional do mercado.](https://www.udemy.com/certificate/UC-4888f344-a84c-4c76-8d3b-56911bd3946d/ "Certificado"){:target="_blank"}
 
 > - Contato: 
->   - [Meu email.](eduardokaykedasilva@gmail.com "Mande uma mensagem.")
+>   - [Meu email.](eduardokaykedasilva@gmail.com "Mande uma mensagem."){:target="_blank"}
 
 _Um dia seremos a tecnologia. Biohacking a própria evolução de nós mesmos._
