@@ -1,8 +1,9 @@
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/EduardoKayke"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="EduardoKayke" /></a></p><br><br>
+
 <h1 align="center">Olá! Eu sou o Eduardo.👋</h1>
 
-<h3 align="center">Ainda estou me desenvolvendo, por isso minha página está em construção. ⚠️</h3>
-
-<h3 align="center">Front-end Developer</h3>
+<h3 align="center">Bem vindo!</h3>
 
 
 
