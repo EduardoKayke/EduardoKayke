@@ -1,17 +1,3 @@
-<!--
-**EduardoKayke/EduardoKayke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1 align="center">Olá! Eu sou o Eduardo.👋</h1>
 
 <h3 align="center">Ainda estou me desenvolvendo, por isso minha página está em construção. ⚠️</h3>
@@ -211,7 +197,7 @@ Unopar Tecnólogo - Web Developer Front-end
 
 ## Cursos Udemy.
 
-- [Programação para Leigos e informática do básico ao avançado.](https://www.udemy.com/certificate/UC-3148215f-6e7e-48de-aa6b-2aa0c1e8732a/ "Certificado"){:target="_blank"}
+- <a href="https://www.udemy.com/certificate/UC-3148215f-6e7e-48de-aa6b-2aa0c1e8732a/" target="_blank">Programação para Leigos e informática do básico ao avançado.</a>
 
 ## Cursos Digital Innovation One.
 
