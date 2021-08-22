@@ -1,6 +1,3 @@
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/EduardoKayke"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="EduardoKayke" /></a></p><br><br>
-
 <h1 align="center">Olá! Eu sou o Eduardo.👋</h1>
 
 <h3 align="center">Bem vindo!</h3>
@@ -159,9 +156,13 @@
 
 </div>
 
-## Perfil
+## Perfil 
 
 Sou o dono da Loja Cavallari (e-commerce) e estudante de desenvolvimento de software, Front-end.
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=eduardokayke&label=Profile%20views&color=0e75b6&style=flat" alt="eduardokayke" /> </p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eduardokayke" alt="eduardokayke" /></a> </p>
 
 ## Universidade
 Unopar Tecnólogo - Web Developer Front-end
@@ -215,7 +216,8 @@ Unopar Tecnólogo - Web Developer Front-end
 - [Aprenda Ganhar Dinheiro no Mercado de Ações - Intermediário.](https://www.udemy.com/certificate/UC-6eff9441-e1c0-4058-9eba-1e53890c0bb4/ "Certificado")
 - [Análise Técnica - Opere como um profissional do mercado.](https://www.udemy.com/certificate/UC-4888f344-a84c-4c76-8d3b-56911bd3946d/ "Certificado")
 
-> - Contato: 
->   - [Meu email.](eduardokaykedasilva@gmail.com "Mande uma mensagem.")
+## Me apoie.
 
 _Um dia seremos a tecnologia. Biohacking a própria evolução de nós mesmos._
+
+<p><a href="https://www.buymeacoffee.com/EduardoKayke"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="EduardoKayke" /></a></p><br><br>
