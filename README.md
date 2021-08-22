@@ -212,9 +212,10 @@ Unopar Tecnólogo - Web Developer Front-end
 ## Cursos Udemy.
 
 - [Programação para Leigos e informática do básico ao avançado.](https://www.udemy.com/certificate/UC-3148215f-6e7e-48de-aa6b-2aa0c1e8732a/ "Certificado")
+
 ## Cursos Digital Innovation One.
 
-- [Bem-vindo à DIO.](https://certificates.digitalinnovation.one/BB93D4E7 "Certificado")
+- [Bem-vindo à DIO.](https://certificates.digitalinnovation.one/BB93D4E7 target="_blank" "Certificado")
 - [IDE Instalação e Configuração (Visual Studio Code).](https://certificates.digitalinnovation.one/1F1552CB "Certificado")
 - [Introdução ao Git e ao GitHub.](https://certificates.digitalinnovation.one/4576328D "Certificado")
 - [Lógica de Programação Essencial.](https://certificates.digitalinnovation.one/450FDA80 "Certificado")
