@@ -8,26 +8,25 @@
 <div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoKayke&layout=compact&theme=tokyonight)](https://github.com/EduardoKayke/github-readme-stats)
-
-<div align="center">
-
-  
-
-📫 Email **eduardokaykedasilva@gmail.com**
-
-
-<h3 align="center">Redes Sociais.</h3>
-<p align="center">
-<a href="https://linkedin.com/in/eduardokaykedasilva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eduardokaykedasilva" height="30" width="40" /></a>
-</p>
  
 <div align="center">
 
 ![Ralf's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardokayke&show_icons=true&theme=tokyonight)
 
 ## Perfil 
+  
+  <div align="center">
 
-Sou o dono da Loja Cavallari (e-commerce) e estudante de desenvolvimento de software, Front-end.
+    Sou o dono da Loja Cavallari (e-commerce) e estudante de desenvolvimento de software, Front-end.
+    
+  📫 Email **eduardokaykedasilva@gmail.com**
+
+
+<h3 align="center">Redes Sociais.</h3>
+<p align="center">
+<a href="https://linkedin.com/in/eduardokaykedasilva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eduardokaykedasilva" height="30" width="40" /></a>
+</p>
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=eduardokayke&label=Profile%20views&color=0e75b6&style=flat" alt="eduardokayke" /> </p>
 
