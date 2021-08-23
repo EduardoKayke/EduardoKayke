@@ -36,34 +36,34 @@ Sou o dono da Loja Cavallari (e-commerce) e estudante de desenvolvimento de soft
 ## Universidade
 Unopar Tecnólogo - Web Developer Front-end
 ### Disciplinas da graduação em Dev Web:
-Sociedade Brasileira e Cidadania;<br/>
-Projeto de Software;<br/>
-Análise e Modelagem de Sistemas;<br/>
-Arquiteturas e Organização de Computadores;<br/>
-Desenvolvimento Orientado ao Objeto;<br/>
-Programação e Desenvolvimento de Banco de Dados;<br/>
-Redes de Computadores e Servidores Web;<br/>
-Análise Orientada a Objetos;<br/>
-Desenvolvimento de Sistemas E-commerce;<br/>
-Desenvolvimento em JavaScript;<br/>
-Desenvolvimento Responsivo;<br/>
-Segurança para Serviços Web;<br/>
-Algoritmos e Programação Estruturada;<br/>
-Lógica Computacional;<br/>
-Modelagem Banco de Dados;<br/>
+Sociedade Brasileira e Cidadania.<br/>
+Projeto de Software.<br/>
+Análise e Modelagem de Sistemas.<br/>
+Arquiteturas e Organização de Computadores.<br/>
+Desenvolvimento Orientado ao Objeto.<br/>
+Programação e Desenvolvimento de Banco de Dados.<br/>
+Redes de Computadores e Servidores Web.<br/>
+Análise Orientada a Objetos.<br/>
+Desenvolvimento de Sistemas E-commerce.<br/>
+Desenvolvimento em JavaScript.<br/>
+Desenvolvimento Responsivo.<br/>
+Segurança para Serviços Web.<br/>
+Algoritmos e Programação Estruturada.<br/>
+Lógica Computacional.<br/>
+Modelagem Banco de Dados.<br/>
 Tecnologias Web Service.<br/>
-Linguagem de Programação;<br/>
+Linguagem de Programação.<br/>
 
 ### Atuação nas áreas de:
 
-Aplicativos e sites com front-end e back-end;<br/>
-Desenvolvimento de softwares;<br/>
-Sistema de hospedagem;<br/>
-Rede;<br/>
-Banco de dados;<br/>
-Servidor;<br/>
-Segurança de dados;<br/>
-UX;<br/>
+Aplicativos e sites com front-end e back-end.<br/>
+Desenvolvimento de softwares.<br/>
+Sistema de hospedagem.<br/>
+Rede.<br/>
+Banco de dados.<br/>
+Servidor.<br/>
+Segurança de dados.<br/>
+UX.<br/>
 Segurança cibernética.<br/>
 
 ## Cursos Udemy.
