@@ -13,6 +13,8 @@
 
 ![Ralf's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardokayke&show_icons=true&theme=tokyonight)
 
+ Meus Gists - https://gist.github.com/EduardoKayke
+ 
 ## Perfil 
   
   <div align="center">
