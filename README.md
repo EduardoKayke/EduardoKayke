@@ -70,6 +70,7 @@ Segurança cibernética.<br/>
 ## Cursos Udemy.
 
 [Programação para Leigos e informática do básico ao avançado.](https://www.udemy.com/certificate/UC-3148215f-6e7e-48de-aa6b-2aa0c1e8732a/ "Certificado")<br/>
+[Git e Github Essencial para o Desenvolvedor.](https://www.udemy.com/certificate/UC-9bf84626-f28d-4e5b-a65c-d5aa60474d17/ "Certificado")<br/>
 
 ## Cursos Digital Innovation One.
 
