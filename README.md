@@ -77,7 +77,7 @@ Algoritmos e Lógica de Programação do básico ao avançado. (Cursando)<br/>
 
 [Bem-vindo à DIO.](https://certificates.digitalinnovation.one/BB93D4E7 "Certificado")<br/>
 [IDE Instalação e Configuração (Visual Studio Code).](https://certificates.digitalinnovation.one/1F1552CB "Certificado")<br/>
-Dominando IDEs Java. (Cursando)<br/>
+[Dominando IDEs Java.](https://certificates.digitalinnovation.one/BDBD08F9 "Certificado")<br/>
 Introdução a Qualidade de Software. (Cursando)<br/> 
 [Introdução ao Git e ao GitHub.](https://certificates.digitalinnovation.one/4576328D "Certificado")<br/>
 [Lógica de Programação Essencial.](https://certificates.digitalinnovation.one/450FDA80 "Certificado")<br/>
