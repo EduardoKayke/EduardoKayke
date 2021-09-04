@@ -19,7 +19,7 @@
   
   <div align="center">
 
-    Sou o dono da Loja Cavallari (e-commerce) e estudante de desenvolvimento de software, Full-stack.
+    Sou Desenvolvedor de software, Front-end.
     
   📫 Email **eduardokaykedasilva@gmail.com**
 
