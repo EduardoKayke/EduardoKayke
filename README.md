@@ -19,7 +19,7 @@
   
   <div align="center">
 
-    Sou Desenvolvedor de software, Front-end.
+    Sou Desenvolvedor Web, Full Stack.
     
   📫 Email **eduardokaykedasilva@gmail.com**
 
