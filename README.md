@@ -71,7 +71,7 @@ Segurança cibernética.<br/>
 
 [Programação para Leigos e informática do básico ao avançado.](https://www.udemy.com/certificate/UC-3148215f-6e7e-48de-aa6b-2aa0c1e8732a/ "Certificado")<br/>
 [Git e Github Essencial para o Desenvolvedor.](https://www.udemy.com/certificate/UC-9bf84626-f28d-4e5b-a65c-d5aa60474d17/ "Certificado")<br/>
-Algoritmos e Lógica de Programação do básico ao avançado. (Cursando)<br/>
+[Algoritmos e Lógica de Programação do básico ao avançado.](https://www.udemy.com/certificate/UC-defa2bb4-c259-4e92-9ecd-ab2f04f016b2/ "Certificado")<br/>
 Curso Web Moderno Completo com JavaScript 2021 + Projetos. (Cursando)
 
 ## Cursos Digital Innovation One.
@@ -79,7 +79,7 @@ Curso Web Moderno Completo com JavaScript 2021 + Projetos. (Cursando)
 [Bem-vindo à DIO.](https://certificates.digitalinnovation.one/BB93D4E7 "Certificado")<br/>
 [IDE Instalação e Configuração (Visual Studio Code).](https://certificates.digitalinnovation.one/1F1552CB "Certificado")<br/>
 [Dominando IDEs Java.](https://certificates.digitalinnovation.one/BDBD08F9 "Certificado")<br/>
-Introdução a Qualidade de Software. (Cursando)<br/> 
+Pojetos ágeis com SCRUM. (Cursando)<br/> 
 [Introdução ao Git e ao GitHub.](https://certificates.digitalinnovation.one/4576328D "Certificado")<br/>
 [Lógica de Programação Essencial.](https://certificates.digitalinnovation.one/450FDA80 "Certificado")<br/>
 
