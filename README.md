@@ -67,11 +67,11 @@ Segurança de dados.<br/>
 UX.<br/>
 Segurança cibernética.<br/>
 
-## Cursos Udemy.
+## Cursos pela Udemy.
 
-[Programação para Leigos e informática do básico ao avançado.](https://www.udemy.com/certificate/UC-3148215f-6e7e-48de-aa6b-2aa0c1e8732a/ "Certificado")<br/>
-[Git e Github Essencial para o Desenvolvedor.](https://www.udemy.com/certificate/UC-9bf84626-f28d-4e5b-a65c-d5aa60474d17/ "Certificado")<br/>
-[Algoritmos e Lógica de Programação do básico ao avançado.](https://www.udemy.com/certificate/UC-defa2bb4-c259-4e92-9ecd-ab2f04f016b2/ "Certificado")<br/>
+[Programação para Leigos e informática do básico ao avançado.](https://www.geekuniversity.com.br/certificado/CG-3148215F "Certificado")<br/>
+[Git e Github Essencial para o Desenvolvedor.](https://www.geekuniversity.com.br/certificado/CG-9BF84626/ "Certificado")<br/>
+[Algoritmos e Lógica de Programação do básico ao avançado.](https://www.geekuniversity.com.br/certificado/CG-DEFA2BB4/ "Certificado")<br/>
 Curso Web Moderno Completo com JavaScript 2021 + Projetos. (Cursando)
 
 ## Cursos Digital Innovation One.
