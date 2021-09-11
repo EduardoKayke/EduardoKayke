@@ -70,8 +70,8 @@ Segurança cibernética.<br/>
 ## Cursos pela Udemy.
 
 [Programação para Leigos e informática do básico ao avançado.](https://www.geekuniversity.com.br/certificado/CG-3148215F "Certificado")<br/>
-[Git e Github Essencial para o Desenvolvedor.](https://www.geekuniversity.com.br/certificado/CG-9BF84626/ "Certificado")<br/>
-[Algoritmos e Lógica de Programação do básico ao avançado.](https://www.geekuniversity.com.br/certificado/CG-DEFA2BB4/ "Certificado")<br/>
+[Git e Github Essencial para o Desenvolvedor.](https://www.geekuniversity.com.br/certificado/CG-9BF84626 "Certificado")<br/>
+[Algoritmos e Lógica de Programação do básico ao avançado.](https://www.geekuniversity.com.br/certificado/CG-DEFA2BB4 "Certificado")<br/>
 Curso Web Moderno Completo com JavaScript 2021 + Projetos. (Cursando)
 
 ## Cursos Digital Innovation One.
