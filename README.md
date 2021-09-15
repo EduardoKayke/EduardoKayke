@@ -1,6 +1,9 @@
 <h1 align="center">Olá! Eu sou o Eduardo.👋</h1>
+<div align="center">
 
-<h3 align="center">Bem vindo!</h3>
+    Sou Desenvolvedor Web, Full Stack.
+    
+  📫 Email **eduardokaykedasilva@gmail.com**
 
 <h3 align="center">Linguagens e Ferramentas:</h3>
 <p align="center">
@@ -16,15 +19,6 @@
 ![Ralf's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardokayke&show_icons=true&theme=tokyonight)
 
  Meus Gists - https://gist.github.com/EduardoKayke
- 
-## Perfil 
-  
-  <div align="center">
-
-    Sou Desenvolvedor Web, Full Stack.
-    
-  📫 Email **eduardokaykedasilva@gmail.com**
-
 
 <h3 align="center">Redes Sociais.</h3>
 <p align="center">
@@ -36,40 +30,66 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eduardokayke" alt="eduardokayke" /></a> </p>
 
-## Universidade
-Unopar Tecnólogo - Web Developer Front-end
-### Disciplinas da graduação em Dev Web:
-Sociedade Brasileira e Cidadania.<br/>
-Projeto de Software.<br/>
-Análise e Modelagem de Sistemas.<br/>
-Arquiteturas e Organização de Computadores.<br/>
-Desenvolvimento Orientado ao Objeto.<br/>
-Programação e Desenvolvimento de Banco de Dados.<br/>
-Redes de Computadores e Servidores Web.<br/>
-Análise Orientada a Objetos.<br/>
-Desenvolvimento de Sistemas E-commerce.<br/>
-Desenvolvimento em JavaScript.<br/>
-Desenvolvimento Responsivo.<br/>
-Segurança para Serviços Web.<br/>
-Algoritmos e Programação Estruturada.<br/>
-Lógica Computacional.<br/>
-Modelagem Banco de Dados.<br/>
-Tecnologias Web Service.<br/>
-Linguagem de Programação.<br/>
 
-### Atuação nas áreas de:
+<h2 align="center">Universidade Unopar.</h2>
 
-Aplicativos e sites com front-end e back-end.<br/>
-Desenvolvimento de softwares.<br/>
-Sistema de hospedagem.<br/>
-Rede.<br/>
-Banco de dados.<br/>
-Servidor.<br/>
-Segurança de dados.<br/>
-UX.<br/>
-Segurança cibernética.<br/>
+<div align="left">
 
-## Cursos pela Udemy.
+         Disciplinas da graduação em Dev Web:                            Atuação nas áreas de: 
+<div align="left">
+
+        . Sociedade Brasileira e Cidadania.                             . Aplicativos e sites com front-end e back-end.  
+<div align="left">
+
+        . Projeto de Software.                                          . Desenvolvimento de softwares.   
+<div align="left">
+
+        . Análise e Modelagem de Sistemas.                              . Sistema de hospedagem. 
+<div align="left">
+
+        . Arquiteturas e Organização de Computadores.                   . Rede.
+<div align="left">
+
+        . Desenvolvimento Orientado ao Objeto.                          . Banco de dados.
+<div align="left">
+
+        . Programação e Desenvolvimento de Banco de Dados.              . Servidor. 
+<div align="left">
+
+        . Redes de Computadores e Servidores Web.                       . Segurança de dados.  
+<div align="left">
+
+        . Análise Orientada a Objetos.                                  . UX. 
+<div align="left">
+
+        . Desenvolvimento de Sistemas E-commerce.                       . Segurança cibernética.  
+<div align="left">
+
+        . Desenvolvimento em JavaScript.                      
+<div align="left">
+
+        . Desenvolvimento Responsivo. 
+<div align="left">
+
+        . Segurança para Serviços Web.  
+<div align="left">
+
+        . Algoritmos e Programação Estruturada.  
+<div align="left">
+
+        . Lógica Computacional.
+<div align="left">
+
+        . Modelagem Banco de Dados.
+<div align="left">
+
+        . Tecnologias Web Service.
+<div align="left">
+
+        . Linguagem de Programação. 
+
+
+<h2 align="center">Cursos pela Udemy.</h2>
 
 [Programação para Leigos e informática do básico ao avançado.](https://www.geekuniversity.com.br/certificado/CG-3148215F "Certificado")<br/>
 [Git e Github Essencial para o Desenvolvedor.](https://www.geekuniversity.com.br/certificado/CG-9BF84626 "Certificado")<br/>
