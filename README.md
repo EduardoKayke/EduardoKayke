@@ -115,6 +115,6 @@ Pojetos ágeis com SCRUM. (Cursando)<br/>
 [Análise Técnica - Opere como um profissional do mercado.](https://www.udemy.com/certificate/UC-4888f344-a84c-4c76-8d3b-56911bd3946d/ "Certificado")<br/>
 
 <div align="center">
-_Um dia seremos a tecnologia. Biohacking a própria evolução de nós mesmos._
+Um dia seremos a tecnologia. Biohacking a própria evolução de nós mesmos.
 
 <p><a href="https://www.buymeacoffee.com/EduardoKayke"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="EduardoKayke" /></a></p><br><br>
