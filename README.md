@@ -3,7 +3,7 @@
 
     Sou Desenvolvedor Web, Full Stack. Você pode me encontrar pelo Telegram, Linkedin e meu Site(Em construção).
  
-<a href="https://web.telegram.org/z/#-1582796052" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111644.png" alt="eduardokaykedasilva" height="50" width="50" /></a> <a href="https://linkedin.com/in/eduardokaykedasilva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eduardokaykedasilva" height="50" width="50" /></a>
+<a href="https://web.telegram.org/z/#-1582796052" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/4736/4736763.png" alt="eduardokaykedasilva" height="50" width="50" /></a> <a href="https://linkedin.com/in/eduardokaykedasilva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eduardokaykedasilva" height="50" width="50" /></a>
 </p>
 
 <h3 align="center">Linguagens e Ferramentas:</h3>
