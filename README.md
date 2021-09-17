@@ -1,10 +1,10 @@
 <h1 align="center">Olá! Eu sou o Eduardo.👋</h1>
-<div align="center">
+<div align="center"> 
 
     Sou Desenvolvedor Web, Full Stack. Você pode me encontrar pelo Telegram, Linkedin e meu Site(Em construção).
  
-<a href="https://web.telegram.org/z/#-1582796052" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/4053/4053303.png" alt="eduardokaykedasilva" height="50" width="50" /></a> <a href="https://linkedin.com/in/eduardokaykedasilva" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3767/3767329.png" alt="eduardokaykedasilva" height="50" width="50" /></a>
-</p>
+<a href="https://web.telegram.org/z/#-1582796052" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/4053/4053303.png" alt="eduardokaykedasilva" height="50" width="50" /></a> <a href="https://linkedin.com/in/eduardokaykedasilva" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3767/3767329.png" alt="eduardokaykedasilva" height="50" width="50" /></a> <a href="https://web.telegram.org/z/#-1582796052" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1674/1674970.png" alt="eduardokaykedasilva" height="50" width="50" /></a>
+
 
 <h3 align="center">Linguagens e Ferramentas:</h3>
 <p align="center">
