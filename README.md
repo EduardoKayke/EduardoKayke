@@ -38,9 +38,9 @@
      . Lógica Computacional.
      . Modelagem Banco de Dados.
      . Tecnologias Web Service.
-     . Linguagem de Programação.</div>
+     . Linguagem de Programação.
     
-
+</div>
 <h2 align="center">Cursos pela Udemy.</h2>
 <div align="left">
 
