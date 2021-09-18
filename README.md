@@ -49,6 +49,7 @@
      . Git e Github Essencial para o Desenvolvedor.
      . Algoritmos e Lógica de Programação do básico ao avançado.
      . Curso Web Moderno Completo com JavaScript 2021 + Projetos. (Cursando)
+     . Curso de JavaScript e TypeScript do Básico ao Avançado 2021. (Cursando)
      
 </div>
 <h2 align="center">Cursos Digital Innovation One.</h2>
