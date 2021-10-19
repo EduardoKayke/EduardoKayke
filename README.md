@@ -5,7 +5,7 @@
     
 <div align="center"> 
 
-    Sou Desenvolvedor Web, Full Stack. Você pode me encontrar pelo Telegram, Linkedin e meu Site(Em construção).
+    Sou Desenvolvedor Front-End Jr. Você pode me encontrar pelo Telegram, Linkedin e meu Site(Em construção).
 
 </div>
 
