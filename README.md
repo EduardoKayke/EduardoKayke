@@ -28,11 +28,11 @@ function Eduardo(Front End >= 1 year) {
     
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoKayke&layout=compact&theme=tokyonight" alt="EduardoKayke" width="400" />
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=EduardoKayke&theme=dracula" alt="EduardoKayke" width="420" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=EduardoKayke&theme=dracula" alt="EduardoKayke" width="410" />
 </p>
 
 <p align="center">
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Eduardo Kayke Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=EduardoKayke&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" width="820"/></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Eduardo Kayke Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=EduardoKayke&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" width="810"/></a>
 </p>
     
 <div align="center">
