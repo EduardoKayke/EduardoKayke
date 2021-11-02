@@ -38,8 +38,3 @@ function Eduardo(Front End >= 1 year) {
 Um dia seremos a tecnologia. Biohacking a própria evolução de nós mesmos.<br><br>
 
 <p><a href="https://www.buymeacoffee.com/EduardoKayke"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="EduardoKayke" /></a></a></p>
-
-<p>
-  <a href="https://count.getloli.com"><img src="https://count.getloli.com/get/@demo?theme=rule34" /></a>
-  <img src="https://weather-icon.journeyad.repl.co/@Chennai?v=1" width="800" >
-</p>
