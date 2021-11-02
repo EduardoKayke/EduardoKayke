@@ -26,9 +26,11 @@ function Eduardo(Front End >= 1 year) {
 ```
 </div>
     
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoKayke&layout=compact&theme=tokyonight)](https://github.com/EduardoKayke/github-readme-stats)
-![Ralf's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardokayke&show_icons=true&theme=tokyonight)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoKayke&layout=compact&theme=tokyonight" alt="EduardoKayke" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=EduardoKayke&theme=dracula" alt="EduardoKayke" />
+</p>
+    
 <div align="center">
 Um dia seremos a tecnologia. Biohacking a própria evolução de nós mesmos.<br><br>
 
