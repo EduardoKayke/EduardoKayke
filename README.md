@@ -30,6 +30,10 @@ function Eduardo(Front End >= 1 year) {
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoKayke&layout=compact&theme=tokyonight" alt="EduardoKayke" />
   <img src="http://github-readme-streak-stats.herokuapp.com?user=EduardoKayke&theme=dracula" alt="EduardoKayke" />
 </p>
+
+<p align="center">
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Eduardo Kayke Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=EduardoKayke&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"/></a>
+</p>
     
 <div align="center">
 Um dia seremos a tecnologia. Biohacking a própria evolução de nós mesmos.<br><br>
