@@ -9,14 +9,22 @@
 
 </div>
 
-<h3 align="center">Linguagens e Ferramentas:</h3>
+<div align="left">
+    <h3 align="center">Linguagens e Ferramentas:</h3>
     
-<p align="center">
-    <a href="https://web.telegram.org/z/#-1582796052" target="blank"><img align="center" src="images/git.png" alt="git" height="70" width="70"/></a>
-    <a href="https://web.telegram.org/z/#-1582796052" target="blank"><img align="center" src="images/html.png" alt="HTML" height="70" width="70"/></a>
-    <a href="https://web.telegram.org/z/#-1582796052" target="blank"><img align="center" src="images/css.png" alt="CSS" height="70" width="70"/></a>    
-    <a href="https://web.telegram.org/z/#-1582796052" target="blank"><img align="center" src="images/javascript.png" alt="JavaScript" height="75" width="75"/></a>
-<p/> 
+```js    
+function Eduardo(Front End >= 1 year) {
+    const programmer = "Front-end and Game Developer";
+    
+    if (Front End) {
+        const = `${HTML}, ${CSS}, ${JavaScript}` 
+    }
+    else (Framework) {
+        const  = `${Bootstrap}`
+    }
+};
+```
+</div>
     
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoKayke&layout=compact&theme=tokyonight)](https://github.com/EduardoKayke/github-readme-stats)
 ![Ralf's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardokayke&show_icons=true&theme=tokyonight)
