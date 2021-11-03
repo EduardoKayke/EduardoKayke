@@ -19,10 +19,10 @@ function Eduardo(Front End >= 1 year) {
         const Stack = `${HTML}, ${CSS}, ${JavaScript}` 
     }
     else if (Framework) {
-        const Stack = `${Bootstrap}`
+        const StackFramework = `${Bootstrap}`
     }
     else if (Game Dev) {
-        const Stack = `${Godot}, ${GDScript}`
+        const StackGameDev = `${Godot}, ${GDScript}`
     }
 };
 ```
