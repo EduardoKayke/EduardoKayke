@@ -16,13 +16,13 @@ function Eduardo(Front End >= 1 year) {
     const programmer = "Front-end and Game Developer";
     
     if (Front End) {
-        const Stack = `${HTML}, ${CSS}, ${JavaScript}` 
+        const Stack = `${HTML}, ${CSS}, ${JavaScript}`;
     }
     else if (Framework) {
-        const StackFramework = `${Bootstrap}`
+        const StackFramework = `${Bootstrap}`;
     }
     else if (Game Dev) {
-        const StackGameDev = `${Godot}, ${GDScript}`
+        const StackGameDev = `${Godot}, ${GDScript}`;
     }
 };
 ```
