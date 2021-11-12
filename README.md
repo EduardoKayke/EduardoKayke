@@ -19,7 +19,7 @@ function Eduardo(Front End <= 1 year) {
         const Stack = `${HTML5}, ${CSS3}, ${JavaScript}`;
     }
     else if (Framework) {
-        const StackFramework = `${Bootstrap}`;
+        const StackFramework = `${Bootstrap5}`;
     }
     else if (Game Dev) {
         const StackGameDev = `${Godot}, ${GDScript}`;
