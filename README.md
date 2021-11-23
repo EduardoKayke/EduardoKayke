@@ -25,7 +25,7 @@ function Eduardo(Front End <= 1 year) {
         const StackGameDev = `${Godot}, ${GDScript}`;
     }
     else if (Tools) {
-        const StackTools = `${After Effects}, ${Premiere Pro}, ${Figma}`;
+        const StackTools = `${Photoshop}, ${After Effects}, ${Premiere Pro}, ${Figma}`;
     }
 };
 ```
