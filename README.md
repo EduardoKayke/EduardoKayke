@@ -8,12 +8,12 @@
 <div align="left">
     
 ```js   
-/** Sou Desenvolvedor Front-end, Mobile e Game Developer. 
+/** Sou Desenvolvedor Front-end e Game Developer. 
  *  Você pode me encontrar pelo Telegram, Linkedin e meu Site(Em construção). 
  */    
     
 function Eduardo(Programador <= 1 year) {
-    const Programmer = "Front-end, Mobile e Game Developer";
+    const Programmer = "Front-end e Game Developer";
     
     if (Front End) {
         const StackFront = `${HTML}, ${CSS}, ${JavaScript}`;
