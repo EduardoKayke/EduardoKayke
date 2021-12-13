@@ -8,21 +8,18 @@
 <div align="left">
     
 ```js   
-/** Sou Desenvolvedor Front-end e Game Developer. 
+/** Sou Desenvolvedor Front-end. 
  *  Você pode me encontrar pelo Telegram, Linkedin e meu Site(Em construção). 
  */    
     
 function Eduardo(Programador <= 1 year) {
-    const Programmer = "Front-end e Game Developer";
+    const Programmer = "Front-end";
     
     if (Front End) {
         const StackFront = `${HTML}, ${CSS}, ${JavaScript}`;
     }
     else if (Framework && Library) {
         const StackFrameLib = `${Bootstrap}`;
-    }
-    else if (Game Dev) {
-        const StackGameDev = `${Godot}, ${GDScript}`;
     }
     else if (Tools) {
         const StackTools = `${Photoshop}, ${After Effects}, ${Premiere Pro}, ${Figma}`;
