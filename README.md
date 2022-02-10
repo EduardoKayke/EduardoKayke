@@ -16,16 +16,16 @@ function Eduardo(Programador <= 1 year) {
     const Programmer = "Full Stack";
     
     if (Full Stack) {
-        const FullStack = `${HTML}, ${CSS, SASS, SCSS}, ${JavaScript}, ${Node.js}`;
+        const FullStack = `${HTML}, ${CSS, SASS, SCSS}, ${JavaScript}, ${Node.js}, ${MySQL}`;
     }
     else if (Framework && Library) {
         const StackFrameLib = `${Bootstrap}, ${Express.js}`;
     }
     else if (Tools) {
-        const StackTools = `${Visual Studio Code}, ${Git}, ${WordPress}`;
+        const StackTools = `${Git}, ${WordPress}, ${Visual Studio Code}`;
     }
     else if (VisualTools) {
-        const StackVisualTools = `${Photoshop}, ${After Effects}, ${Premiere Pro}, ${Figma}, ${Canva}`;
+        const StackVisualTools = `${Photoshop}, ${Premiere Pro}, ${After Effects}, ${Figma}, ${Adobe XD}, ${Canva}`;
     }
 };
 ```
