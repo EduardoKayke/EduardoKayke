@@ -19,7 +19,7 @@ function Eduardo(Programador <= 1 year) {
         const FullStack = `${HTML}, ${CSS, SASS, SCSS}, ${JavaScript}, ${Node.js}, ${MySQL}`;
     }
     else if (Framework && Library) {
-        const StackFrameLib = `${Bootstrap}, ${Express.js}`;
+        const StackFrameLib = `${Bootstrap}, ${Express.js}, ${EJS}`;
     }
     else if (Tools) {
         const StackTools = `${Git}, ${WordPress}, ${Visual Studio Code}`;
