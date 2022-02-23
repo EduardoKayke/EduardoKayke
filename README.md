@@ -9,7 +9,7 @@
     
 ```js   
 /** Sou Desenvolvedor Web Full Stack. 
- *  Você pode me encontrar pelo Telegram, Linkedin e meu Site. 
+ *  Você pode me encontrar pelo Telegram, Linkedin e meu Site (Em construção). 
  */    
     
 function Eduardo(Programador <= 1 year) {
