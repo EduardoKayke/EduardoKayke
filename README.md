@@ -3,15 +3,14 @@
 <div align="center"> 
 <a href="https://web.telegram.org/z/#-1582796052" target='_blank'><img align="center" src="images/telegram.png" target='_blank' alt="telegram" height="70" width="70" /></a> <a href="https://linkedin.com/in/eduardokaykedasilva" target="_blank"><img align="center" src="images/linkedin.png" alt="linkedin" height="90" width="90" /></a> <a href="https://desenvolvedorfreelancer.com/" target="_blank"><img align="center" src="images/sitepessoal.png" alt="site" height="70" width="70" /></a><br><br>
 
+Sou Desenvolvedor Web Full Stack. <br>
+Você pode me encontrar pelo Telegram, Linkedin e meu Site(Em construção). 
+    
 </div>
 
 <div align="left">
     
-```js   
-/** Sou Desenvolvedor Web Full Stack. 
- *  Você pode me encontrar pelo Telegram, Linkedin e meu Site(Em construção). 
- */    
-    
+```js       
 function Eduardo(Programador <= 1 year) {
     const Programmer = "Full Stack";
     
