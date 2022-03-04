@@ -4,9 +4,9 @@
 # Sou Desenvolvedor Web Full Stack. <br>
 Você pode me encontrar pelo Telegram, Linkedin e meu Site (Em construção). 
 
-<a href="https://web.telegram.org/z/#-1582796052"><img align="center" src="images/telegram.png" target='_blank' alt="telegram" height="70" width="70" /></a>
-<a href="https://linkedin.com/in/eduardokaykedasilva"><img align="center" src="images/linkedin.png" alt="linkedin" height="90" width="90" /></a>
-<a href="https://desenvolvedorfreelancer.com/"><img align="center" src="images/sitepessoal.png" alt="site" height="70" width="70" /></a><br><br>
+<a href="https://web.telegram.org/z/#-1582796052"><img align="center" src="images/telegram.png" target='_blank' alt="Telegram Logo" height="70" width="70" /></a>
+<a href="https://linkedin.com/in/eduardokaykedasilva"><img align="center" src="images/linkedin.png" alt="Linkedin Logo" height="90" width="90" /></a>
+<a href="https://www.cineagenda.com.br"><img align="center" src="images/sitepessoal.png" alt="Cine Agenda" height="70" width="70" /></a><br><br>
     
 </div>
 
