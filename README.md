@@ -28,6 +28,10 @@ function Eduardo(Programador <= 1 year) {
 };
 ```
 </div>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoKayke&layout=compact&theme=radical" width="410"/>
+</p>    
     
 <p align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=EduardoKayke&theme=dracula" alt="EduardoKayke" width="410" />
