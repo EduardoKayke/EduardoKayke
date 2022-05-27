@@ -17,10 +17,10 @@ function Eduardo(Programador <= 1 year) {
     const Programmer = "Front End";
     
     if (Full Stack) {
-        const FrontEnd = `${HTML}, ${CSS}, ${JavaScript}`;
+        const FrontEnd = `${HTML}, ${CSS}, ${JavaScript}, ${TypeScript}`;
     }
     else if (Framework && Library && Others) {
-        const StackFrameLib = `${Bootstrap}, ${React.js}`;
+        const StackFrameLib = `${Bootstrap}, ${Vue.js}`;
     }
     else if (Tools) {
         const StackTools = `${Git}, ${Visual Studio Code}`;
