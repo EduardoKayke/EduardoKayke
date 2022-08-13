@@ -1,7 +1,7 @@
 <h2 align="center">Olá! Eu sou o Eduardo.</h2>
 <div align="center"> 
 
-# Sou Desenvolvedor Web Front End. <br>
+# Sou Desenvolvedor Python - Django. <br>
 Você pode me encontrar pelo Telegram, Linkedin e os meus Sites. 
 
 <a href="https://web.telegram.org/z/#-1582796052"><img align="center" src="images/telegram.png" target='_blank' alt="Telegram Logo" height="70" width="70" /></a>
@@ -12,20 +12,15 @@ Você pode me encontrar pelo Telegram, Linkedin e os meus Sites.
 
 <div align="left">
     
-```js       
-function Eduardo(Programador <= 1 year) {
-    const Programmer = "Front End";
-    
-    if (Full Stack) {
-        const FrontEnd = `${HTML}, ${CSS}, ${JavaScript}, ${TypeScript}`;
-    }
-    else if (Framework && Library && Others) {
-        const StackFrameLib = `${Bootstrap}, ${React.js}`;
-    }
-    else if (Tools) {
-        const StackTools = `${Git}, ${Visual Studio Code}`;
-    }
-};
+```py
+#Minhas Hard Skills são:
+Trindade = "HTML, CSS e JavaScript"
+Preferidas = "Python e Django"
+Maximus = "PyQT5, Selenium, Regexp, Testes e TDD, POO, Design Patterns GoF e algoritmos"
+
+#Minhas Soft Skills são:
+Eu = "Organização, Persistência, Colaboração, Criatividade, Curiosidade e Comunicação"
+
 ```
 </div>  
     
