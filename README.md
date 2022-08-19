@@ -22,15 +22,11 @@ Maximus = "PyQT5, Selenium, Regexp, Testes e TDD, POO, Design Patterns GoF e alg
 Eu = "Organização, Persistência, Colaboração, Criatividade, Curiosidade e Comunicação"
 
 ```
-</div>  
-    
-<p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=EduardoKayke&theme=dracula" alt="EduardoKayke" width="500" />
-</p>
-    
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoKayke&layout=compact&theme=radical" width="500"/>
-</p>      
+</div>
+<div align="center"> 
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=EduardoKayke&theme=dracula" alt="EduardoKayke" width="400" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoKayke&layout=compact&theme=radical" width="400"/>
+</div>
     
 <div align="center">
 Um dia seremos a tecnologia. Biohacking a própria evolução de nós mesmos.<br><br>
