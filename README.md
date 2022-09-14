@@ -12,9 +12,9 @@ Você pode me encontrar pelo Telegram, Linkedin e os meus Sites.
 
 ```python
 print("💠 OBJETIVOS")
-print("Estou em busca de me aperfeiçoar como Desenvolvedor Python")
+print("Estou em busca de me aperfeiçoar como Desenvolvedor Python.")
 print("Criando softwares para resolver as dores que estão expostas no mercado.")
-print("Desenvolvendo aplicações web e resolvendo problemas do dia a dia")
+print("Desenvolvendo aplicações web e resolvendo problemas do dia a dia.")
 
 print("🛠 HARD SKILLS")
 desenvolvimento_frontend = ["HTML", "CSS", "JavaScript"]
