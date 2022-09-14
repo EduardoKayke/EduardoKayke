@@ -10,22 +10,24 @@ Você pode me encontrar pelo Telegram, Linkedin e os meus Sites.
     
 </div>
 
-<div align="left">
-    
-```py
-#Minhas Hard Skills são:
-Trindade = "HTML, CSS e JavaScript"
-Preferidas = "Python e Django"
-Maximus = "PyQT5, Selenium, Regexp, Testes e TDD, POO, Design Patterns GoF e algoritmos"
+```python
+print("💠 OBJETIVOS")
+print("Estou em busca de me aperfeiçoar como Desenvolvedor Python")
+print("Criando softwares para resolver as dores que estão expostas no mercado.")
+print("Desenvolvendo aplicações web e resolvendo problemas do dia a dia")
 
-#Minhas Soft Skills são:
-Eu = "Organização, Persistência, Colaboração, Criatividade, Curiosidade e Comunicação"
+print("🛠 HARD SKILLS")
+desenvolvimento_frontend = ["HTML", "CSS", "JavaScript"]
+desenvolvimento_backend = ["Python", "Django"]
+banco_de_dados = ["SQL", "PostgreSQL"]
+tech = ["Algoritmos e Lógica de Programação", "Git e GitHub", "Scrum"]
 
+print("💬 SOFT SKILLS")
+humano = ("Organização", "Persistência", "Colaboração", "Criatividade", "Curiosidade", "Comunicação")
 ```
-</div>
+
 <div align="center"> 
     <img src="http://github-readme-streak-stats.herokuapp.com?user=EduardoKayke&theme=dracula" alt="EduardoKayke" width="400" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoKayke&layout=compact&theme=radical" width="400"/>
 </div>
     
 <div align="center">
