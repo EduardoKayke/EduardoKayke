@@ -11,7 +11,7 @@ Você pode me encontrar pelo Telegram e o Linkedin.
 
 ```python
 print("💠 OBJETIVOS")
-print("Estou em busca de me aperfeiçoar como Desenvolvedor Python.")
+print("Estou em busca de me aperfeiçoar como Desenvolvedor Full Stack.")
 print("Criando softwares para resolver as dores que estão expostas no mercado.")
 print("Desenvolvendo aplicações web e resolvendo problemas do dia a dia.")
 
