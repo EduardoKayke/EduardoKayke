@@ -1,7 +1,7 @@
 <h2 align="center">Olá! Eu sou o Eduardo.</h2>
 <div align="center"> 
 
-# Sou Desenvolvedor Web Full Stack. <br>
+# Desenvolvedor Web Full Stack. <br>
 Você pode me encontrar pelo Telegram e o Linkedin.
 
 <a href="https://web.telegram.org/z/#-1582796052"><img align="center" src="images/telegram.png" target='_blank' alt="Telegram Logo" height="70" width="70" /></a>
