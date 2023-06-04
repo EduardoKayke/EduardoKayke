@@ -17,8 +17,8 @@ print("Desenvolvendo aplicações web e resolvendo problemas do dia a dia.")
 
 print("🛠 HARD SKILLS")
 desenvolvimento_frontend = ["HTML", "CSS", "JavaScript"]
-desenvolvimento_backend = ["Golang"]
-banco_de_dados = ["SQL", "MySQL"]
+desenvolvimento_backend = ["PHP"]
+banco_de_dados = ["SQL", "MariaDB"]
 tech = ["Algoritmos e Lógica de Programação", "Git e GitHub", "Scrum"]
 
 print("💬 SOFT SKILLS")
