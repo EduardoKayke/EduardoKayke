@@ -9,20 +9,18 @@ Você pode me encontrar pelo Telegram e o Linkedin.
     
 </div>
 
-```python
-print("💠 OBJETIVOS")
-print("Estou em busca de me aperfeiçoar como Desenvolvedor Web Full Stack.")
-print("Criando softwares para resolver as dores que estão expostas no mercado.")
-print("Desenvolvendo aplicações web e resolvendo problemas do dia a dia.")
+```javascript and php
+console.log("💠 OBJETIVOS");
+echo "Estou em busca de me aperfeiçoar como Desenvolvedor Web Full Stack.";
+echo "Criando softwares para resolver as dores que estão expostas no mercado.";
+echo "Desenvolvendo aplicações web e resolvendo problemas do dia a dia.";
 
-print("🛠 HARD SKILLS")
-desenvolvimento_frontend = ["HTML", "CSS", "JavaScript"]
-desenvolvimento_backend = ["PHP"]
-banco_de_dados = ["SQL", "MariaDB"]
-tech = ["Algoritmos e Lógica de Programação", "Git e GitHub", "Scrum"]
+console.log("🛠 HARD SKILLS");
+desenvolvimento_frontend = ["HTML", "CSS", "JavaScript"];
+desenvolvimento_backend = ["PHP", "SQL", "MariaDB"];
 
-print("💬 SOFT SKILLS")
-humano = ("Organização", "Persistência", "Colaboração", "Criatividade", "Curiosidade", "Comunicação")
+console.log("💬 SOFT SKILLS");
+humano = ["Organização", "Persistência", "Colaboração", "Criatividade", "Curiosidade", "Comunicação"];
 ```
 
 <div align="center"> 
