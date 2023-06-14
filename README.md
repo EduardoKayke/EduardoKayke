@@ -24,9 +24,12 @@ humano = ["Organização", "Persistência", "Colaboração", "Criatividade", "Cu
 ```
 
 <div align="center"> 
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=EduardoKayke&theme=dracula" alt="EduardoKayke" width="400" />
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=EduardoKayke&theme=dracula" alt="EduardoKayke" width="420"/>
     <img src="https://github-readme-stats.vercel.app/api?username=EduardoKayke&show_icons=true&theme=dracula&count_private=true" alt="EduardoKayke" width="400" />
-    
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoKayke&layout=compact&langs_count=7&theme=tokyonight" width="340"/>
+</div>
+<br><br>
+<div align="center"> 
 Um dia seremos a tecnologia. Biohacking a própria evolução de nós mesmos.<br><br>
 
 <p><a href="https://www.buymeacoffee.com/EduardoKayke"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="EduardoKayke" /></a></a></p>
