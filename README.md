@@ -28,7 +28,7 @@ humano = ["Organização", "Persistência", "Colaboração", "Criatividade", "Cu
     <img src="https://github-readme-stats.vercel.app/api?username=EduardoKayke&show_icons=true&theme=dracula&count_private=true" alt="EduardoKayke" width="400" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoKayke&layout=compact&langs_count=7&theme=tokyonight" width="340"/>
 </div>
-<br><br>
+<br>
 <div align="center"> 
 Um dia seremos a tecnologia. Biohacking a própria evolução de nós mesmos.<br><br>
 
