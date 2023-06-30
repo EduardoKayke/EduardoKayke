@@ -16,8 +16,11 @@ echo "Criando softwares para resolver as dores que estão expostas no mercado.";
 echo "Desenvolvendo aplicações web e resolvendo problemas do dia a dia.";
 
 console.log("🛠 HARD SKILLS");
-desenvolvimento_frontend = ["HTML", "CSS", "JavaScript"];
-desenvolvimento_backend = ["PHP", "SQL", "MariaDB"];
+echo "Algoritmos e Lógica de Programação";
+echo "Git e GitHub";
+echo "HTML, CSS, SASS e Bootstrap";
+echo "PHP, jQuery e MariaDB";
+echo "Composer, Docker e Wordpress";
 
 console.log("💬 SOFT SKILLS");
 humano = ["Organização", "Persistência", "Colaboração", "Criatividade", "Curiosidade", "Comunicação"];
