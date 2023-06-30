@@ -23,7 +23,7 @@ echo "PHP, jQuery e MariaDB";
 echo "Composer, Docker e Wordpress";
 
 console.log("💬 SOFT SKILLS");
-humano = ["Organização", "Persistência", "Colaboração", "Criatividade", "Curiosidade", "Comunicação"];
+$humano = ["Organização", "Persistência", "Colaboração", "Criatividade", "Curiosidade", "Comunicação"];
 ```
 
 <div align="center"> 
