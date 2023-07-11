@@ -29,7 +29,6 @@ $humano = ["Organização", "Persistência", "Colaboração", "Criatividade", "C
 <div align="center"> 
     <img src="http://github-readme-streak-stats.herokuapp.com?user=EduardoKayke&theme=dracula" alt="EduardoKayke" width="420"/>
     <img src="https://github-readme-stats.vercel.app/api?username=EduardoKayke&show_icons=true&theme=dracula&count_private=true" alt="EduardoKayke" width="400" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoKayke&layout=compact&langs_count=7&theme=tokyonight" width="340"/>
 </div>
 <br>
 <div align="center"> 
